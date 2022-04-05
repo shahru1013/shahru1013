@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shahru Islam, Software Engineer at Bit Mascot pvt. ltd
+- 👋 Hi, I’m @shahru Islam, Software Engineer at BitMascot pvt. ltd
 - 👀 I’m interested in problem solving, Full Stack Web Development and Machine Learning!
 - 🌱 Currently working on react.js, redux and node.js based projects.
 - 📫 Contact with me : http://shahru-islam.herokuapp.com/
