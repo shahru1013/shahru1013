@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @shahru Islam,,Junior Software Engineer at Bit Mascot
-- 👀 I’m interested in Programming, Full Stack Web Development and Machine Learning!
-- 🌱 Currently working on a WebRTC Real Time Video calling system
+- 👋 Hi, I’m @shahru Islam, Software Engineer at Bit Mascot
+- 👀 I’m interested in problem solving, Full Stack Web Development and Machine Learning!
+- 🌱 Currently working on react.js, redux and node.js based projects.
 - 📫 Contact with me : http://shahru-islam.herokuapp.com/
 
 <!---
