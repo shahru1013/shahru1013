@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shahru Islam, Software Engineer at BitMascot pvt. ltd
-- 👀 I’m interested in problem solving, Full Stack Web Development, IOS app development and Machine Learning!
-- 🌱 Currently working and learning on react, redux and node.js based projects.
+- 👀 I’m interested in problem solving, Full Stack Web Development, Android/IOS app development and Machine Learning!
+- 🌱 Currently working on Varsatile projects based on different technologies.
 - 📫 Website : http://shahru-islam.herokuapp.com/
 - 📫 LinkedIn: https://www.linkedin.com/in/shahru-islam-n-a127861b0/ 
 
