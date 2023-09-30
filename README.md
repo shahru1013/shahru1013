@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @shahru Islam, Software Engineer at BitMascot pvt. ltd
-- 👀 I’m interested in problem solving, Full Stack Web Development, Android/IOS app development and Machine Learning!
-- 🌱 Currently working on Varsatile projects based on different technologies.
-- 📫 Website : http://shahru-islam.herokuapp.com/
+- 👋 Hi, I’m @shahru Islam, Software Engineer at [WebAlive](https://www.webalive.com.au/)
+- 👀 I’m interested in problem solving, Full Stack Web Development, Android/IOS hybrid mobile app development and Machine Learning!
+- 🌱 Currently working on Varsatile mobile app projects based on different technologies. eg. React, Flutter, Java
 - 📫 LinkedIn: https://www.linkedin.com/in/shahru-islam-n-a127861b0/ 
 
 <!---
